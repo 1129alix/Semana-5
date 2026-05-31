@@ -1,0 +1,4 @@
+crea y envia nueva informacion a un servidor
+
+
+sirve para enviar informacion de una forma diferente sin necesidad de ustilizar otra ruta o cambiat de servidor 

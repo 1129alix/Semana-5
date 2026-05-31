@@ -1,0 +1,8 @@
+http://localhost:3000
+ puerto funcionando corretamente 
+
+http://localhost:3000/saludo
+este enlace apunta a un servidor que se esta ejecutando en tu propia computadora ("localhost") atraves del puerto 3000
+
+http://localhost:3000/mensaje/juan
+apunta a un servidor web ejecutandose en tu propia computadora . especificamente en el puerto 3000
